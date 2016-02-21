@@ -5,10 +5,10 @@ Preview of iTerm2 settings in conjunction with my [dotfiles](https://github.com/
 
 ## Setup
 1. Install [iTerm2](https://www.iterm2.com/)
-2. In `iTerm > Preferences` activate `Load preferences from custom folder... and point to a folder
+2. In `iTerm > Preferences` activate `Load preferences from custom folder...` and point to a folder
 ![setup](setup.png)
 
-2. Clone this repo into that folder
+2. Clone this repo into that folder (overwrite)
 
 ## Usage
 ### Basic Hotkeys
@@ -18,5 +18,7 @@ Preview of iTerm2 settings in conjunction with my [dotfiles](https://github.com/
 * Split pane vertically: <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>D</kbd>
 
 ### Backup
-Push to repo every now and then to save new settings to Github
+In `iTerm > Preferences` click on `Save Settings to Folder` 
+
+Push to repo to save new settings to Github
 
