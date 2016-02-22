@@ -7,7 +7,7 @@
 	<key>AllowClipboardAccess</key>
 	<false/>
 	<key>AnimateDimming</key>
-	<false/>
+	<true/>
 	<key>AppleAntiAliasingThreshold</key>
 	<integer>1</integer>
 	<key>AppleScrollAnimationEnabled</key>
@@ -332,7 +332,7 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>1409 110 445 500 0 0 1920 1057 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>511 179 924 485 0 0 1680 1027 </string>
+	<string>511 209 924 485 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 223 1680 804 0 0 1680 1027 </string>
 	<key>New Bookmarks</key>
@@ -1139,7 +1139,7 @@
 	<key>SmartPlacement</key>
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
-	<real>0.40000000596046448</real>
+	<real>0.23070412874221802</real>
 	<key>SwitchTabModifier</key>
 	<integer>4</integer>
 	<key>SwitchWindowModifier</key>
