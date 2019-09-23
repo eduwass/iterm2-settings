@@ -356,9 +356,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>242 272 606 469 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>362 445 918 452 0 0 3440 1417 </string>
+	<string>861 403 770 429 0 0 2560 1440 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 753 3440 664 0 0 3440 1417 </string>
+	<string>482 -1050 650 687 482 -1050 1680 1050 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1199,7 +1199,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2019-06-05T07:59:47Z</date>
+	<date>2019-09-20T10:58:16Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -1207,7 +1207,7 @@
 	<key>Show Toolbelt</key>
 	<false/>
 	<key>ShowBookmarkName</key>
-	<true/>
+	<false/>
 	<key>ShowFullScreenTabBar</key>
 	<true/>
 	<key>ShowNewOutputIndicator</key>
@@ -1218,6 +1218,8 @@
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.16452323931914103</real>
+	<key>StretchTabsToFillBar</key>
+	<false/>
 	<key>SwitchPaneModifier</key>
 	<integer>4</integer>
 	<key>SwitchTabModifier</key>
