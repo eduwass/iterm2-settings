@@ -363,7 +363,7 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>1402 -858 445 77 482 -1050 1680 1050 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
-	<string>1412 932 616 174 0 0 3440 1417 </string>
+	<string>1412 949 616 174 0 0 3440 1440 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>1080 983 400 129 0 0 2560 1440 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
@@ -375,7 +375,11 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>230 833 592 584 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>3440 -101 900 665 3440 -101 900 1600 </string>
+	<string>657 137 2529 1085 0 0 3440 1440 </string>
+	<key>NSWindow Frame iTerm Window 1</key>
+	<string>1722 0 1715 1440 0 0 3440 1440 </string>
+	<key>NSWindow Frame iTerm Window 2</key>
+	<string>459 237 890 867 0 0 3200 1800 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1341,7 +1345,7 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {3440, 1440}}</string>
 		<key>topLeft</key>
-		<string>{983, 941}</string>
+		<string>{269, 595}</string>
 	</dict>
 	<key>NoSyncHaveRequestedFullDiskAccess</key>
 	<true/>
@@ -1352,7 +1356,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>EF0C6A1B-64D7-4DBC-933F-7CD31DBD8D3D</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>271</integer>
+	<integer>297</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -2183,11 +2187,11 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-10-06T23:39:22Z</date>
+	<date>2020-11-24T10:16:32Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
-	<false/>
+	<true/>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>SeparateStatusBarsPerPane</key>
@@ -2197,7 +2201,7 @@
 	<key>ShowBookmarkName</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
-	<true/>
+	<false/>
 	<key>ShowNewOutputIndicator</key>
 	<false/>
 	<key>ShowPaneTitles</key>
